@@ -1,44 +1,64 @@
-# Roll No. 11 — College Enquiry Chatbot
+# Roll No. 11 — MIT-ADT College Enquiry Chatbot
 
-A Streamlit chatbot for college course, fee and admission enquiries. It uses Gemini 2.5 Flash and answers only from `college_info.txt`.
+A Streamlit-based college enquiry chatbot developed for Generative AI Mini Project Problem Statement 11. It uses Google Gemini 2.5 Flash to answer questions about MIT-ADT University courses, fees, admission procedures, required documents and admission enquiries.
 
-## Files
-- `app.py` — Streamlit application and chat-history logic
-- `college_info.txt` — information sheet supplied to the model
+The chatbot retrieves information from `college_info.txt` and is instructed not to invent information that is missing from the supplied knowledge sheet.
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Google Gemini 2.5 Flash
+- Google GenAI Python SDK
+
+## Project Files
+
+- `app.py` — Streamlit application and conversation-history logic
+- `college_info.txt` — MIT-ADT University information supplied to the model
 - `requirements.txt` — Python dependencies
-- `.gitignore` — excludes secrets and local environments
+- `.gitignore` — excludes API secrets and local environments
 
-## Setup
+## Setup and Installation
+
 1. Install Python 3.10 or later.
-2. Open a terminal in this project folder.
+2. Open a terminal in the project folder.
 3. Create and activate a virtual environment (recommended).
-4. Install dependencies:
+4. Install the required packages:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+   `pip install -r requirements.txt`
 
-5. Create `.streamlit/secrets.toml` and add:
+5. Create `.streamlit/secrets.toml` and add your Gemini API key:
 
-   ```toml
-   GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
-   ```
+   `GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"`
 
-   Alternatively, set the `GEMINI_API_KEY` environment variable. Never commit the key.
+   Alternatively, set the `GEMINI_API_KEY` environment variable. Never upload your actual API key to GitHub.
 
-6. Start the app:
+6. Start the application:
 
-   ```bash
-   streamlit run app.py
-   ```
+   `streamlit run app.py`
 
-## Testing prompts
-1. Which programmes are offered by the School of Computing?
-2. What is the first-year Indian Resident fee for B.Tech CSE in 2026–27?
-3. What is the published four-year total for B.Tech CSE?
-4. What are the steps in the admission process?
-5. What is the School of Computing admission coordinator's published contact number?
-6. What is the hostel fee? (Expected behaviour: the bot says this information is not available in the supplied sheet.)
+7. Open the local URL displayed in the terminal.
 
-## Important
-This is a student demonstration, not an official university service. Fee and admission details are time-sensitive. Verify them on the official university website. Update `college_info.txt` when official information changes.
+## Testing
+
+The chatbot was tested using five sample enquiries:
+
+1. What courses does MIT-ADT University offer?
+2. What is the fee for B.Tech Computer Science?
+3. How can I apply for admission?
+4. What documents are required for admission?
+5. Who can I contact for admission enquiries?
+
+The chatbot was also designed to respond safely when information is unavailable in the supplied information sheet.
+
+## Important Note
+
+This is a student demonstration project and not an official MIT-ADT University service. Fee and admission details may change. Users should verify important information through the official university website and current admission handbook.
+
+## Author
+
+- Student: Dhanya Rao
+- Roll Number: 11
+- Class: LY B.Tech CSE AIA 4
+- Academic Year: 2026–2027
+- Problem Statement: 11
