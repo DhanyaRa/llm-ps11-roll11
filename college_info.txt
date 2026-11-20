@@ -1,0 +1,82 @@
+MIT-ADT UNIVERSITY — COLLEGE INFORMATION SHEET
+Prepared for Roll No. 11 College Enquiry Chatbot
+Information snapshot: 20 November 2026
+Institution: MIT Art, Design and Technology University (MIT-ADT), Pune, Maharashtra, India.
+
+IMPORTANT SCOPE
+This file is a compact demonstration knowledge sheet based on the official MIT-ADT University website pages listed at the end. It is not a substitute for the latest admission handbook, fee circular, or written confirmation from the university. Where a detail is absent, the chatbot must say it is not available rather than guess.
+
+1. COURSES / PROGRAMMES
+The official MIT-ADT programmes page lists programmes across multiple schools and institutes. Examples include:
+- MIT School of Computing: Bachelor of Technology (B.Tech.) in Computer Science & Engineering (CSE).
+- MIT School of Computing: Master of Science (M.Sc.) in Computer Science — Artificial Intelligence & Machine Learning.
+- MIT School of Computing: Master of Technology (M.Tech.).
+- MIT School of Engineering & Sciences: B.Tech. programmes including Aerospace Engineering, Mechanical Engineering, Robotics and Artificial Intelligence, Civil Engineering, Electronics & Communication Engineering, and Electronics & Computer Engineering.
+- Institute of Design: Bachelor of Design (Foundation / Fashion) and multiple Master of Design specialisations.
+- Other schools offer programmes in fine arts, performing arts, education, humanities, law, management, food technology, bioengineering, film and television, drama, and other disciplines.
+The exact current programme list, intake, eligibility and availability must be checked in the current official programme listing and admission handbook.
+
+2. FEES — B.TECH COMPUTER SCIENCE & ENGINEERING
+Official published fee table for Academic Year 2026–27:
+- Programme: Undergraduate Bachelor of Technology (Computer Science & Engineering), MIT School of Computing.
+- Indian Resident category: Year 1 (A.Y. 2026–27): INR 2,87,000.
+- Indian Resident category: published four-year total: INR 12,72,000.
+- EWS category: Year 1: INR 1,65,500; published four-year total: INR 7,32,500.
+- NRI/PIO/OCI/CIWGC/CIWSEA/FN category: Year 1: INR 4,30,500; published four-year total: INR 19,08,000.
+These figures are specific to the named programme, academic year and fee categories. They must not be applied to other programmes. The official fee page may be updated; students should verify the current payable amount and instalment rules before payment. This sheet does not provide hostel, mess, transport, examination or other incidental charges.
+
+3. ADMISSION PROCESS
+The official 2026–27 admission process page describes these steps:
+1. Register on the application portal using basic personal details and verify email and mobile number.
+2. Complete all sections of the online application form: personal details, parent/guardian details, correspondence details, academic details and document upload.
+3. Submit the completed form with the application fee shown on the official process page (INR 1,800 in the published 2026–27 instructions).
+4. Follow the university's evaluation and admission communication.
+The chatbot must not claim that an applicant is eligible, selected, or guaranteed admission. Programme-specific eligibility, entrance requirements, documents, dates and seat availability must be checked in the current admission handbook or with the admissions office. Published dates can change and the 2026–27 cycle dates may already have passed.
+
+4. ADMISSIONS CONTACT — SCHOOL OF COMPUTING
+The official MIT-ADT University admission-process page lists the School of Computing admission coordinator as:
+- Name: Dr. Ramesh Mali
+- Published contact number: 9890032120
+Contact details may change. Verify them on the official university admission page before relying on them.
+
+5. DOCUMENTS REQUIRED FOR UNDERGRADUATE ADMISSION — FIRST YEAR
+
+As per the MIT-ADT University Admission Handbook 2026–27, the following documents are required for first-year undergraduate admission:
+
+1. Class 10 marksheet or passing certificate.
+2. Class 12 marksheet or passing certificate.
+3. Leaving Certificate (LC) or Transfer Certificate (TC).
+4. Migration Certificate — required for candidates other than Maharashtra State Board students.
+5. Birth Certificate, Domicile Certificate or Nationality Certificate. If the Leaving Certificate does not mention nationality or place of birth, an affidavit may be required as prescribed by the university.
+6. Caste Certificate — for candidates applying under reserved categories.
+7. Caste Validity Certificate — for candidates applying under reserved categories.
+8. Non-Creamy Layer Certificate — for applicable reserved categories other than SC/ST. The 2026–27 handbook specifies validity up to 31 March 2027.
+9. Gap Certificate — if there is an academic gap of one year or more.
+10. Valid entrance examination scorecard — for professional programmes where applicable.
+11. Passport — mandatory only for B.Tech. Marine Engineering and B.Sc. Nautical Science.
+12. Aadhaar Card photocopy.
+
+IMPORTANT:
+- Some documents are applicable only to specific categories or programmes.
+- Requirements for postgraduate, direct second-year and other admissions may differ.
+- Applicants should check the latest admission handbook and confirm programme-specific requirements with the university.
+- The chatbot must not claim that every applicant needs all 12 documents.
+
+
+6. WHAT THIS INFORMATION SHEET DOES NOT SPECIFY
+This sheet does not contain complete eligibility criteria for every programme, entrance exam cut-offs, current seat availability, scholarship award decisions, hostel charges/availability, transport charges, refund calculations, application status, or individual student records. The chatbot should direct users to the official university office for these details.
+
+OFFICIAL SOURCES
+1. MIT-ADT University — Admission Process 2026–27:
+https://mituniversity.ac.in/Admissions/mitadt_admission_process
+2. MIT-ADT University — Programme Fees:
+https://mituniversity.ac.in/Admissions/admission_program_fees
+3. MIT-ADT University — Programmes Offered:
+https://mituniversity.ac.in/programs/programs-offered
+4. MIT-ADT University — Admissions:
+https://mituniversity.ac.in/admissions/
+5. MIT-ADT University — Admission Handbook 2026–27:
+https://mit-adt.srvx.in/assets/pdfs/Admission%20Handbook%202026-27%2030.03.2026.pdf
+
+LAST UPDATED FOR THIS PROJECT: 20 November 2026
+Before a real deployment, review this file against the latest official notices and update it.
